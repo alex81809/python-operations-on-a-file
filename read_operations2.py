@@ -1,6 +1,6 @@
 # Program to remove lines starting with any prefix
 
-file1 = open('a.txt', 'r')
+file1 = open('1.txt', 'r')
 file2 = open('2.txt', 'w')
 
 # reading each line from original
